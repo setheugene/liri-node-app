@@ -15,3 +15,4 @@ search omdb: movie-this name of movie here
    
 The app also saves previous searches in a random.txt file.
 
+Images of the app functioning can be found in the 'images' folder
