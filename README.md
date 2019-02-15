@@ -15,3 +15,6 @@ search omdb: movie-this name of movie here
    
 The app also saves previous searches in a random.txt file.
 
+Screen Shot 2019-02-10 at 1.33.36 PM
+Screen Shot 2019-02-10 at 1.33.51 PM
+Screen Shot 2019-02-10 at 1.34.07 PM
